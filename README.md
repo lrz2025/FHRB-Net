@@ -2,8 +2,7 @@
 
 ## Introduction
 
-This repo is the official implementation of ["Frequency-Domain Heterogeneous Rank-Entropy
-Bipolarization Network for Remote Sensing Change Detection"]
+This repo is the official implementation of ["FHRB-Net"]
 
 ## Install dependencies
 
